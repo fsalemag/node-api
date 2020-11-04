@@ -1,3 +1,6 @@
+credentials/
+package-lock.json
+
 # Logs
 logs
 *.log
